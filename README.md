@@ -177,18 +177,16 @@ Each model is evaluated using:
 ## 📁 Project Structure
 
 ```
-bank-transaction-clustering-classification/
-│
-├── notebook.ipynb
-├── data/
-│   └── dataset_clustering_project.csv
-├── models/
-│   ├── model_clustering
-│   ├── PCA_model_clustering.h5
-│   ├── decision_tree_model.h5
-│   └── tuning_classification
+bank-transaction-clustering-classification
+├── [Clustering]_Submission_Akhir_BMLP.ipynb
+├── [Klasifikasi]_Submission_Akhir_BMLP_Your.ipynb
+├── model_clustering.h5
+├── PCA_model_clustering.h5 
+├── decision_tree_model.h5
+├── explore_knn_classification.h5
+├── tuning_classification.h5 
+├── data_clustering.csv
 ├── data_clustering_inverse.csv
-└── README.md
 ```
 ---
 
@@ -199,4 +197,5 @@ This project demonstrates a complete machine learning workflow by integrating cl
 ---
 
 📌 *This repository is intended for educational and evaluation purposes as part of a machine learning course submission.*
+
 
