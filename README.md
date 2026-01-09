@@ -153,7 +153,7 @@ Each model is evaluated using:
 * Additional explored models:
 
   ```
-  explore_Random Forest_classification
+  explore_knn_classification
   ```
 * Tuned classification model:
 
@@ -199,3 +199,4 @@ This project demonstrates a complete machine learning workflow by integrating cl
 ---
 
 📌 *This repository is intended for educational and evaluation purposes as part of a machine learning course submission.*
+
